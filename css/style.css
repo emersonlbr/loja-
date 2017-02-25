@@ -1,3 +1,14 @@
 .navbar-header button {
   		color:white;
   	}
+
+html {
+  max-width: 1024px;
+  width: 90%;
+  margin: 20px auto;
+  background: url(http://moshlab.com/wp-content/uploads/2015/03/Zakynthos-Beach-Landscape-Nature-Wallpaper-Images-HD-Free-77348993.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
