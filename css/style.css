@@ -12,3 +12,9 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+p {
+  color: #fff;
+  font-size: 20px;
+  background-color: #999;
+}
